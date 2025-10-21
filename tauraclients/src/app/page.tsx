@@ -26,7 +26,7 @@ export default function Home() {
   }
 
   return (
-    <main className="contaner mx-auto p-4 md:p-8">
+    <main className="contaner  w-1/2 mx-auto p-4 m-25 md:p-8  border rounded-lg bg-blue-100 ">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-3xl font-bold text-center mb-8">Lista de Clientes</h1>
         
