@@ -15,7 +15,9 @@ const SearchBar = ({ value, onChange, placeholder = "Buscar cliente pelo nome...
             onChange={onChange}
             placeholder={placeholder}
             className="w-full px-4 py-2 border bg-gray-100 border-gray-300 rounded-lg 
-            shadow-sm focus:outline-double focus:ring-2 focus:ring-blue-500"
+            shadow-sm focus:outline-double focus:ring-2 focus:ring-blue-500
+            dark:bg-gray-800 dark:border0gray-600 dark:placeholder-gray-400
+            "
             />
         </div>
     );
