@@ -1,5 +1,4 @@
-# Projeto Lista de Clientes (Teste Técnico Taura)
-Este projeto é uma aplicação de página única (SPA) desenvolvida como parte do teste técnico para a vaga de Desenvolvedor Frontend Júnior na Taura Security.
+# Projeto Lista de Clientes
 
 A aplicação exibe uma lista de clientes a partir de um arquivo JSON local, permitindo ao usuário buscar clientes pelo nome e visualizar seus detalhes de contato.
 
